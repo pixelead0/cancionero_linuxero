@@ -24,6 +24,8 @@ Con la condición de que:
 - Se mantenga la misma licencia para cualquier trabajo derivado.
 
 ## 🎶 Lista de canciones:
+- comunidad-libre.md
+- juntos-en-el-codigo.md
 - linux-en-la-terminal.md
 - python-el-lenguaje-del-ser.md
 
