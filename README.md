@@ -25,6 +25,7 @@ Con la condición de que:
 
 ## 🎶 Lista de canciones:
 - comunidad-libre.md
+- dime_linuxero.md (parodia "dime vaquero" <la dinastia>)
 - juntos-en-el-codigo.md
 - linux-en-la-terminal.md
 - python-el-lenguaje-del-ser.md
