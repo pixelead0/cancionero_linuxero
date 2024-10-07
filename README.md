@@ -27,6 +27,7 @@ Con la condición de que:
 - comunidad-libre.md
 - dime_linuxero.md (parodia "dime vaquero" <la dinastia>)
 - juntos-en-el-codigo.md
+- las-aventuras-del-linuxero-digital.md (Parodia de "Las aventuras en el Distrito Federal" de Heavy Nopal)
 - linux-en-la-terminal.md
 - python-el-lenguaje-del-ser.md
 
