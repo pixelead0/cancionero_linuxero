@@ -30,6 +30,7 @@ Con la condición de que:
 - las-aventuras-del-linuxero-digital.md (Parodia de "Las aventuras en el Distrito Federal" de Heavy Nopal)
 - linux-en-la-terminal.md
 - python-el-lenguaje-del-ser.md
+- simposium-de-la-mixteca.md
 
 ### ¡Únete a la comunidad!
 ¿Tienes una canción en mente o un arreglo que quieras compartir? ¡Contribuye y se parte de esta colaboración musical open-source!
